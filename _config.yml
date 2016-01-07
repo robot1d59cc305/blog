@@ -68,4 +68,11 @@ theme: next
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:djyde/djyde.github.io.git
+  branch: master
+
+feed:
+  type: atom
+  path: feed.xml
+  limit: 0
