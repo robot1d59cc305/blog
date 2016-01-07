@@ -20,7 +20,7 @@ Vue 的官方是用 **a library for building modern web interfaces** 来描述�
 <!-- index.html -->
 <div id="#app">
   <input v-model="msg" />
-  <p>{% raw %}{{ msg }}{% endraw %}</p>
+  <p>{{ msg }}</p>
 </div>
 <script>
   var app = new Vue({
@@ -79,7 +79,7 @@ Vue 通过自己的 `.vue` 文件来定义 components，`.vue` 文件里包含�
 ```html
 <!-- components/user.vue -->
 <template>
-  <p>Hello {% raw %}{{ name }}{% endraw %}</p>
+  <p>Hello {{ name }}</p>
   <button v-on="click: alertName()">alert!</button>
 </template>
 
@@ -112,7 +112,7 @@ Vue 通过自己的 `.vue` 文件来定义 components，`.vue` 文件里包含�
 
 ```html
 <div id="app">
-  <component is="{% raw %}{{ currentView }}{% endraw %}"></component>
+  <component is="{{ currentView }}"></component>
 </div>
 ```
 
