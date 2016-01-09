@@ -6,6 +6,7 @@ date: 2016-01-07 22:25:12
 
 #### (不断更新)
 
+* **2015-12-01-04** 创立前端技术类 podcast 节目 JSNext.fm 
 *   **2015-11-19** 开源 Swift 编写的 Web app 打包工具 [WebShell](http://djyde.github.io/WebShell/)
 *   **2015-11-5** 开源基于 Electron + Vue.js 的 OS X menubar 时钟日历 [iCultus](https://github.com/djyde/iCultus)
 *   **2015-10-30** 开源 [PureSlider](https://github.com/djyde/PureSlider/)
