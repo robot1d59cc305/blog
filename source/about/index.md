@@ -28,6 +28,8 @@ date: 2016-01-07 22:14:42
 *   多年 HTML(5) / CSS(3) / JavaScript 经验
 *   熟悉前端模块化规范
 *   熟悉使用 SCSS (SASS) 等 css pre-processor
+*   熟悉使用 PostCSS
+*   熟悉使用 ES2015
 *   熟悉使用 Gulp 自动化构建
 *   熟悉使用 Webpack 等 bundle tools
 *   熟悉使用 Angular，Vue.js, jQuery 等前端 library (framework).
