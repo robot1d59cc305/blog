@@ -2,7 +2,8 @@
 layout: post
 title: Realm实例指南
 date: 2014-10-17
-tag: android
+tag: 
+    - android
 ---
 背景
 ---

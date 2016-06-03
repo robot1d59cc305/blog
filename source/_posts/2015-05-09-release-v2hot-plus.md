@@ -2,7 +2,10 @@
 layout: post
 title: V2HOT Plus
 date: 2015-05-09 00:22
-tag: android
+tag:
+    - android
+    - open-source
+    - creation
 ---
 
 大约在一年前，我刚毕业，开始搞 Android，做了一个叫 V2HOT 的 APP https://www.v2ex.com/t/130456

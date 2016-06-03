@@ -2,7 +2,8 @@
 layout: post
 title: 使用 RecylerView 实现触底加载
 date: 2015-04-24 10:07
-tag: android
+tag: 
+    - android
 ---
 
 最近项目中需要实现列表到底后加载更多的功能，由于我使用的是 RecyclerView，所以我就基于它实现了一个，现在分享给大家。

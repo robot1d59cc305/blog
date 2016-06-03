@@ -2,7 +2,9 @@
 layout: post
 title: Realm 中文文档
 date: 2014-10-17
-tag: android
+tag: 
+    - android
+    - translation
 ---
 
 [官方文档](http://realm.io/docs/java/)

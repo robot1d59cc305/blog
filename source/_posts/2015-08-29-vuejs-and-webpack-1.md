@@ -2,7 +2,11 @@
 layout: post
 title: Vue.js 和 Webpack（一）
 date: 2015-08-29 17:58
-tag: frontend
+tag:
+  - frontend
+  - javascript
+  - vue
+  - tutorial
 ---
 
 **转载前请务必先联系邮箱**
