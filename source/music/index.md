@@ -43,7 +43,7 @@ date: 2016-06-07 21:25:30
 
 ### **合久必婚 x 网友**
 
-原唱：李荣浩
+原唱：李克勤/陈苑淇
 
 <audio controls>
   <source src="http://172.88.88.200/qq.com/vcloud1021.tc.qq.com/1021_2360e433abfd4cacb64bbd47a43c46b4.f1110.m4a?vkey=965B69DF59397BD1F3E3FD3253927D9CBEEE370775AE6660B8DD2BE7AA7045C07200C64597F217BB&sha=97edacde3adff07002da86bc5d808c5fee6d385b&ocid=123456&fromtag=1007&sdtfrom=1007">
