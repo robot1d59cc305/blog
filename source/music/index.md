@@ -25,7 +25,7 @@ date: 2016-06-07 21:25:30
 
 ### **小幸运(粤语版)**
 
-原唱：陈柏宇
+原唱：音美
 
 <audio controls>
   <source src="http://qiniuuwmp3.changba.com/696661824.mp3">
