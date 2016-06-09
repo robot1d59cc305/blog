@@ -6,7 +6,7 @@ tags:
     - photograph
 ---
 
-<img src="//o86cdh9ph.qnssl.com/IMG_1443.JPG?imageView2/2/q/50" class="full-image" />
+<img src="//o86cdh9ph.qnssl.com/IMG_1443.JPG?imageView2/2/q/50" class="full-image" poster="//o86cdh9ph.qnssl.com/64travel_cover.png"/>
 
 <p></p>
 
